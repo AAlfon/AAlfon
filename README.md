@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAlfon
+- 👋 Hi, I’m Alex Alfon
 - 👀 I’m interested in ... Learning how to become an software engineer
 - 🌱 I’m currently learning ... at avion school 
 - 💞️ I’m looking to collaborate on ...
